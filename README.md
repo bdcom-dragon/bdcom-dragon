@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bdcom-dragon
+- 👀 I’m interested in Embedded Systems
+- 🌱 I’m currently learning Operating Systems
+- 📫 How to reach me: bdcom.dragon@gmail.com
